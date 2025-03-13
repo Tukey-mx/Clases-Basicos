@@ -3,4 +3,4 @@ Este repositorio contiene las clases vistas en el curso de ciencia de datos Tuke
 
 ### Clases
 
-[2. Introducción a la términal y linea de comandos](Clase2-IntroduccionLineaComandos/Clase2.md)
+[2. Introducción a la términal y línea de comandos](Clase2-IntroduccionLineaComandos/Clase2.md)

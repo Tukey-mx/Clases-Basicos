@@ -1,4 +1,4 @@
-# Clase 2. Introducción a la linea de comandos
+# Clase 2. Introducción a la línea de comandos
 
 ## Instalación de GIT
 
