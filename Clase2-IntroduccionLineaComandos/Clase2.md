@@ -4,4 +4,4 @@ En caso de ser usuario de Windows es necesario contar con la Git Bash, puedes de
 
 El proceso de instalación es bastance sencillo
 
-![asd](https://drive.google.com/file/d/1Ny6qQyJTHl3xzBsUc1K7BQmBDuVVVmgE/view?usp=drive_link)
+![asd](https://drive.google.com/file/d/1Ny6qQyJTHl3xzBsUc1K7BQmBDuVVVmgE/view?usp=sharing)
