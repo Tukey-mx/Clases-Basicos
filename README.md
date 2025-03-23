@@ -8,3 +8,5 @@ Este repositorio contiene las clases vistas en el curso de ciencia de datos Tuke
 [3. Introducción a las variables y tipos de datos](3-VariablesTiposDeDatos/Clase3.md)
 
 [4. Entrada y salida de datos](4-EntradaSalidaDatos/Clase4.md)
+
+[5. Operadores aritméticos](5-OperadoresAritmeticos/Clase5.md)
