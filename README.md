@@ -5,10 +5,4 @@ Este repositorio contiene las clases vistas en el curso de ciencia de datos Tuke
 
 [2. Introducción a la términal y línea de comandos](Clase2-IntroduccionLineaComandos/Clase2.md)
 
-
-#### Nuestras redes
-
-Jesús Manuel López Fabián
-- [Github](
-- [Linkedin](
-
+[3. Introducción a las variables y tipos de datos]()
