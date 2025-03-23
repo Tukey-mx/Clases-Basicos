@@ -116,3 +116,5 @@ Supongamos que queremos guardar los datos de una compra en una tienda. Crea las 
 3. Una variable llamada `precio_unitario` con el valor 799.99
 
 Luego, imprime los valores y el tipo de las variables en pantalla
+
+[Sube tu respuesta a este ejercicio en este enlace](https://forms.gle/8EGndbGaUYoQf2iUA)
