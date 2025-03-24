@@ -106,7 +106,7 @@ Salida:
 ``` 
 En este caso, `str` es el tipo de dato de la variable `nombre`, `int` es el tipo de dato de la variable `edad`, y `float` es el tipo de dato de la variable `altura`.
 
-## Ejericio propuesto
+## Ejercicio propuesto
 Supongamos que queremos guardar los datos de una compra en una tienda. Crea las siguientes variables:
 
 1. Una variable llamada `producto` con el valor "Laptop"
