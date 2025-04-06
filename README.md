@@ -13,6 +13,6 @@ Este repositorio contiene las clases vistas en el curso de ciencia de datos Tuke
 
 [5. Operadores aritméticos](5-OperadoresAritmeticos/Clase5.md)
 
-[6. Git y Github](6-GitGithub/Clase6.md)
+[6. Git y Github](6-Git/Clase6.md)
 
-[7. Condicionales](7-Condicionales/Clase7.md)
+[7. Condicionales](7-Condicionales/7-Condicionales.md)
