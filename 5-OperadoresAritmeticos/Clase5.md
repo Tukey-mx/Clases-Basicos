@@ -126,20 +126,3 @@ print(f"Tu altura es: {altura}")
 ```
 
 Ahora, puedes calcular la pendiente y la intersección de la recta que mejor se ajusta a tus datos. En este caso, los datos son ficticios, pero en la vida real, tendrás que recolectar datos reales y aplicar la regresión lineal para hacer predicciones.
-
-## Ejercicio propuesto
-Hay modelos de machine learning que realizan una predicción basada en la distancia entre dos puntos. Un ejemplo es el algoritmo de K-Nearest Neighbors (KNN), que predice la clase de un punto basándose en la clase de los puntos más cercanos a él.
-
-Tu tarea es realizar un código que pida al usuario dos puntos en el plano cartesiano, y calcule la distancia entre ellos. La fórmula para calcular la distancia entre dos puntos es:
-
-$$distancia = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$$
-
-Donde:
-- $(x_1, y_1)$ son las coordenadas del primer punto
-- $(x_2, y_2)$ son las coordenadas del segundo punto
-
-Una vez que tengas la distancia, muéstrala en pantalla.
-
-Nota. Recuerda que puedes obtener la raiz cuadrada de un número utilizando el operador `**` con un exponente de `0.5`.
-
-[Sube tu respuesta a este ejercicio en este enlace](https://forms.gle/RGV5BSo9W69XMiur8)

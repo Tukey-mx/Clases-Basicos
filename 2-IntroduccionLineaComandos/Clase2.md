@@ -189,28 +189,3 @@ Ejemplo 3:
 mv hola.py ./Proyectos/
 ```
 Esto moverá el archivo `hola.py` a la carpeta `Proyectos` dentro del directorio actual.
-
-## Ejercicio propuesto
-Crea la siguiente estructura de directorios y archivos:
-
-```bash
-Ejercicio
-|
-|
-|---------->Carpeta1
-|          |
-|          |------->programa1.py
-|
-|---------->Carpeta2
-           |
-           |------->Carpeta3
-           |         |
-           |         |------->hola.py
-           |
-           |------->adios.txt
-```
-
-
-Escribe los comandos necesarios para crear la estructura de directorios y archivos mencionada.
-
-[Sube tu respuesta a este ejercicio en este enlace](https://forms.gle/PGHEhUPmyqgFHbLE9)

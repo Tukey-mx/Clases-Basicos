@@ -105,16 +105,3 @@ Salida:
 <class 'float'>
 ``` 
 En este caso, `str` es el tipo de dato de la variable `nombre`, `int` es el tipo de dato de la variable `edad`, y `float` es el tipo de dato de la variable `altura`.
-
-## Ejercicio propuesto
-Supongamos que queremos guardar los datos de una compra en una tienda. Crea las siguientes variables:
-
-1. Una variable llamada `producto` con el valor "Laptop"
-
-2. Una variable llamada `cantidad` con el valor 3
-
-3. Una variable llamada `precio_unitario` con el valor 799.99
-
-Luego, imprime los valores y el tipo de las variables en pantalla
-
-[Sube tu respuesta a este ejercicio en este enlace](https://forms.gle/8EGndbGaUYoQf2iUA)

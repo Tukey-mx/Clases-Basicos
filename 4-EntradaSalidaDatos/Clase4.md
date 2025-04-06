@@ -66,8 +66,3 @@ Output:
 Hola Jesús gastaste 100.0 en la tienda
 ```
 
-## Ejercicio propuesto
-
-Realiza un código que pregunte al usuario su nombre, edad y estatura. Convierte la edad a un número entero, y la estatura a un número con decimal. Muestra los datos y el tipo de dato de cada variable en pantalla utilizando f-strings
-
-[Sube tu respuesta a este ejercicio en este enlace](https://forms.gle/QLC9cHKfeuyThr1C9)
