@@ -1,6 +1,8 @@
 # Clases-Básicos
 Este repositorio contiene las clases vistas en el curso de ciencia de datos Tukey Feb - Junio 2025
 
+[Lista de ejercicios para practicar](Ejercicios/ejercicios.md)
+
 ### Clases
 
 [2. Introducción a la términal y línea de comandos](2-IntroduccionLineaComandos/Clase2.md)
