@@ -126,3 +126,46 @@ frutas = ["MANZANA", "BANANA", "pera", "uva", "kiwi"]
 
 
 ## Ejercicio 8.2
+Tenemos la siguiente cadena de texto: "Club de CIENCIA DE DATOS TUKEY". Queremos contar cuántas vocales y cuantas consonantes hay en la cadena. Escribe un programa que cuente las vocales y consonantes y muestre el resultado.
+
+```python
+cadena = "Club de CIENCIA DE DATOS TUKEY"
+# Escribe tu código aquí
+```
+[Sube tu respuesta a este ejercicio en este enlace](https://forms.gle/RXdPxDwLcc3N7UVUA)
+
+
+## Ejercicio 8.3
+Tenemos dos lista que contienen las calificaciones (1 - 10) que distintos jueces le han dado a una dos barras de chocolate. 
+
+Para cada una de las barras, calcula lo siguiente:
+
+1. La calificacion promedio.
+
+$$ promedio = \frac{1} {n}\sum_{i = 1}^{n}{calificación_i}$$
+
+2. La calificación más alta (lo puedes hacer utilizando la función `max` de python)
+
+
+3. La calificación más baja (lo puedes hacer utilizando la función `min` de python)
+
+4. Desviación estándar de las calificaciones. La cual nos indica la distancia promedio entre cada calificación y la calificación promedio, es decir, nos indica que tan variables son las calificaciones. La fórmula para calcular el desvío estándar es:
+
+$$
+desviación\;estándar = \sqrt{\frac{1}{n}\sum_{i=1}^{n}(calificacion_i - promedio\;calificacion)^2}$$
+
+
+```python 
+# Calificaciones de los jueces
+calificaciones_barra1 = [7,5,9,7,9,10,7,7,10,6,7]
+calificaciones_barra2 = [10,8,10,7,10,10,7,7,10,6,7]
+
+# Escribe tu código aquí
+```
+En un comentario dentro de tu código, escribe la respuesta a la siguiente pregunta:
+
+¿Cuál crees que es la mejor barra de chocolate? ¿Por qué?
+
+**Pista: La desviación estándar nos indica que tan variables son las calificaciones. Si una barra tiene una calificación promedio alta, pero su desviación estándar es alta, significa que los jueces no están de acuerdo en la calificación. Por el contrario, si una barra tiene una calificación promedio alta y su desviación estándar es baja, significa que los jueces están de acuerdo en la calificación.**
+
+[Sube tu respuesta a este ejercicio en este enlace](https://forms.gle/AAAB8MZvkGKFvTi39)

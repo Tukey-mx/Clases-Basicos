@@ -1,6 +1,6 @@
-# Bucles
+# Iterar Listas y Cadenas
 
-Los bucles son estructuras de control que permiten repetir un bloque de código varias veces. En Python, existen dos tipos principales de bucles: `for` y `while`.
+En esta sección, aprenderemos a iterar sobre listas y cadenas utilizando bucles en Python. La iteración es una técnica fundamental en programación que nos permite recorrer elementos de una colección (como listas o cadenas) y realizar operaciones sobre ellos.
 
 ## Bucle `for`
 El bucle `for` se utiliza para iterar sobre una secuencia (como una lista, una tupla o un rango). La sintaxis básica es la siguiente:
