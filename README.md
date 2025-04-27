@@ -16,3 +16,5 @@ Este repositorio contiene las clases vistas en el curso de ciencia de datos Tuke
 [6. Git y Github](6-Git/Clase6.md)
 
 [7. Condicionales](7-Condicionales/7-Condicionales.md)
+
+[8. Iterar listas y cadenas](8-IterarListasyCadenas/8-IterarListasyCadenas.md)

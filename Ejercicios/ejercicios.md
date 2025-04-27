@@ -67,9 +67,9 @@ Nota. Recuerda que puedes obtener la raiz cuadrada de un número utilizando el o
 
 [Sube tu respuesta a este ejercicio en este enlace](https://forms.gle/RGV5BSo9W69XMiur8)
 
-# 6. Condicionales
+# 7. Condicionales
 
-## Ejercicio 6.1
+## Ejercicio 7.1
 
 En aprendizaje automático, un perceptrón es una neurona artificial que recibe varias entradas (x₁, x₂, ..., xₙ), cada una con un peso asociado (w₁, w₂, ..., wₙ), y un sesgo (b). La salida del perceptrón se obtiene al calcular la combinación lineal de las entradas y luego aplicar una función de activación.
 
@@ -103,7 +103,7 @@ salida = (x1 * w1) + (x2 * w2) + b
 
 [Sube tu respuesta a este ejercicio en este enlace](https://forms.gle/iR38Ziv1KsLJ1nA9A)
 
-## Ejercicio 6.2
+## Ejercicio 7.2
 En ciencia de datos, muchas veces es necesario clasificar valores númericos en diferentes categorías. Supongamos que tenemos una lista de temperaturas en grados Celsius y queremos categorizarlas de la siguiente manera:
 
 Menos de 15°C - Frío
@@ -112,3 +112,17 @@ Entre 15°C y 25°C - Templado
 Escribe un programa que pida al usuario una temperatura y le diga si es "Frío" o "Templado". 
 
 [Sube tu respuesta a este ejercicio en este enlace](https://forms.gle/gNiCzAT9hXXWEZz26)
+
+# 8. Iterar listas y cadenas
+## Ejercicio 8.1
+Supongamos que tenemos una lista de frutas, y queremos imprimir solo las frutas que terminan con la letra "a". Crea una lista de frutas y utiliza un bucle `for` para imprimir solo las frutas que terminan con "a".
+
+```python
+# Lista de frutas
+frutas = ["MANZANA", "BANANA", "pera", "uva", "kiwi"]
+# Escribe tu código aquí
+```
+[Sube tu respuesta a este ejercicio en este enlace](https://forms.gle/Mu1V5gfHYktEYUcf7)
+
+
+## Ejercicio 8.2
